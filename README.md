@@ -25,6 +25,9 @@ You need to contact xuaopu@outlook.com to get a miner license (a random code).
 After entering a correct miner license, you are able to verify unverified transactions and package them into a new block.
 输入正确矿工许可后，您可以验证交易并将交易打包为新区块。
 
+Or you can choose to solve problems of mathematics, physics and chemistry in order to verify unverified transactions and package them into a new block.
+或您可以选择做题，题目为数学、物理、化学高中水平难题，做对即可验证交易并将交易打包为新区块。
+
 You will get a 50-HesCoin reward for this.
 为此，您将获得50HesCoin作为奖励。
 
